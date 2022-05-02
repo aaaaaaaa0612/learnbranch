@@ -1,15 +1,1 @@
-<<<<<<< HEAD
-hello main
-
-hello dev
-=======
 Creating a new branch is quick AND simple
-
-hello.txt
-dev
-
-
-dev
-dev
-dev
->>>>>>> dev
